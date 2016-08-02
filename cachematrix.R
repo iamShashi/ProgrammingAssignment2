@@ -45,4 +45,3 @@ cacheSolve <- function(x, ...) {
 ##matrix(1:4,2,2)
 ##mymatrix <- makeCacheMatrix (matrix(1:4,2,2))
 ##cacheSolve(mymatrix)
-Contact GitHub 
